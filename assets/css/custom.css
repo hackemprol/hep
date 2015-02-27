@@ -1,0 +1,11 @@
+.cover-heading{
+  background: url("../images/logo.png");
+
+  width: 450px;
+  height: 150px;
+
+  font-size: 0;
+  line-height: 0;
+
+  margin: auto;
+}

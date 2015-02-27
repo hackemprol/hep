@@ -1,0 +1,2 @@
+[Thu Feb 26 23:39:10.734271 2015] [core:error] [pid 4479] (13)Permission denied: [client 127.0.0.1:51779] AH00132: file permissions deny server access: /Applications/XAMPP/htdocs/hep/assets/images/bg.jpg, referer: http://local.hackemprol.com.br/
+[Thu Feb 26 23:39:18.172518 2015] [core:error] [pid 4094] (13)Permission denied: [client 127.0.0.1:51785] AH00132: file permissions deny server access: /Applications/XAMPP/htdocs/hep/assets/images/bg.jpg
